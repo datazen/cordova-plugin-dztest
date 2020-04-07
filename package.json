@@ -1,10 +1,10 @@
 {
-    "name": "cordova-plugin-starprnt",
+    "name": "cordova-plugin-dztest",
     "version": "2.2.0",
     "description": "StarPRNT Cordova Plugin for Star Micronics Bluetooth/LAN printers",
     "types": "./types/index.d.ts",
     "cordova": {
-      "id": "cordova-plugin-starprnt",
+      "id": "cordova-plugin-dztest",
       "platforms": [
         "android",
         "ios"
@@ -12,7 +12,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/auctifera-josed/starprnt"
+      "url": "https://github.com/datazen/cordova-plugin-dztest.git"
     },
     "keywords": [
       "cordova",
@@ -27,5 +27,5 @@
       "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests"
     },
     "author": "Jose Angarita / Ruben Casas"
-    
+
   }
